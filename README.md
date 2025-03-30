@@ -62,7 +62,7 @@ This repository contains code for preprocessing, training, evaluation, and cross
   Run cross_dataset_validation.py to evaluate cross-dataset performance.
 
 ## Results
-  The evaluation scripts compare model performance with metrics such as Accuracy, F1 Score, and AUC-ROC.<br>
+  The evaluation script compares model performance with metrics such as Accuracy, F1 Score, and AUC-ROC.<br>
   Cross-dataset validation demonstrates the impact of domain differences between MIT-BIH and PTB-XL, highlighting the need for further domain adaptation and advanced preprocessing techniques.
 
 ## References
